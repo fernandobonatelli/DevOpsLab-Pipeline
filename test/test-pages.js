@@ -10,6 +10,6 @@ describe("Status and content", function () {
         done();
       });
     });
-    });
   });
+});
 
